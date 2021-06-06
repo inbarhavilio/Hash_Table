@@ -1,3 +1,5 @@
+// Inbar Havilio, username inbarhavilio, ID 209243252
+// Yuval Bloom, username yuvalbloom, ID 312486806
 
 public interface IHashTable {
 	
